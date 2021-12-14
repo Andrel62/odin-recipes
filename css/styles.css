@@ -1,0 +1,20 @@
+
+.center{
+    text-align: center;
+}
+.main{
+    color: #0000ff;
+}
+
+h1{
+    color: #ff0000;
+}
+
+h3{
+    color: orangered;
+}
+
+.sp-img{
+    height: auto;
+    width: 400px;
+}
